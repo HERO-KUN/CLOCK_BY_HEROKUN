@@ -36,5 +36,5 @@
 ## Downloads
 
 ##### 해당 프로그램의 다운로드는 이쪽에서 가능합니다 :
-[Download : Google Drive](https://drive.google.com/open?id=1cHtKQff4e08xM5U4h6r9O2vMcSN9rihr, "download")
+[Download : Google Drive](https://drive.google.com/open?id=1cHtKQff4e08xM5U4h6r9O2vMcSN9rihr)
 
