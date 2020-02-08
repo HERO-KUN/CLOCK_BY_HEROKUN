@@ -24,8 +24,8 @@ public class Interpolators
 		EaseOutCurve = new AnimationCurve();
 		EaseOutCurve.AddKey(new Keyframe(0f, 0f)
 		{
-			inTangent = 2,
-			outTangent = 2,
+			inTangent = 3,
+			outTangent = 3,
 			tangentMode = 0
 		});
 		EaseOutCurve.AddKey(new Keyframe(1f, 1f)
