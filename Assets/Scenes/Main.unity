@@ -163,12 +163,12 @@ TextMesh:
   m_GameObject: {fileID: 10442919}
   m_Text: 9
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -437,12 +437,12 @@ TextMesh:
   m_GameObject: {fileID: 68741343}
   m_Text: 7
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -530,12 +530,12 @@ TextMesh:
   m_GameObject: {fileID: 70780809}
   m_Text: 5
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -766,12 +766,12 @@ TextMesh:
   m_GameObject: {fileID: 424648344}
   m_Text: 6
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -942,12 +942,12 @@ TextMesh:
   m_GameObject: {fileID: 598265141}
   m_Text: 1
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1035,12 +1035,12 @@ TextMesh:
   m_GameObject: {fileID: 616682111}
   m_Text: 4
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1128,12 +1128,12 @@ TextMesh:
   m_GameObject: {fileID: 650161194}
   m_Text: 0
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1221,12 +1221,12 @@ TextMesh:
   m_GameObject: {fileID: 677628596}
   m_Text: 1
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1314,12 +1314,12 @@ TextMesh:
   m_GameObject: {fileID: 760493907}
   m_Text: 1
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1444,12 +1444,12 @@ TextMesh:
   m_GameObject: {fileID: 767062065}
   m_Text: ':'
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1556,12 +1556,12 @@ TextMesh:
   m_GameObject: {fileID: 769936698}
   m_Text: 0
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1726,12 +1726,12 @@ TextMesh:
   m_GameObject: {fileID: 835515666}
   m_Text: 8
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1819,12 +1819,12 @@ TextMesh:
   m_GameObject: {fileID: 883293319}
   m_Text: 2
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -1912,12 +1912,12 @@ TextMesh:
   m_GameObject: {fileID: 909729896}
   m_Text: 0
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2098,12 +2098,12 @@ TextMesh:
   m_GameObject: {fileID: 950716235}
   m_Text: 0
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2191,12 +2191,12 @@ TextMesh:
   m_GameObject: {fileID: 971193057}
   m_Text: 3
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2437,12 +2437,12 @@ TextMesh:
   m_GameObject: {fileID: 1117639982}
   m_Text: 3
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2530,12 +2530,12 @@ TextMesh:
   m_GameObject: {fileID: 1132007429}
   m_Text: 8
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2623,12 +2623,12 @@ TextMesh:
   m_GameObject: {fileID: 1144514408}
   m_Text: 3
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2716,12 +2716,12 @@ TextMesh:
   m_GameObject: {fileID: 1152697450}
   m_Text: 4
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2809,12 +2809,12 @@ TextMesh:
   m_GameObject: {fileID: 1178263812}
   m_Text: 7
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -2933,12 +2933,12 @@ TextMesh:
   m_GameObject: {fileID: 1234801252}
   m_Text: 7
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3026,12 +3026,12 @@ TextMesh:
   m_GameObject: {fileID: 1242634003}
   m_Text: 4
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3119,12 +3119,12 @@ TextMesh:
   m_GameObject: {fileID: 1275425534}
   m_Text: 5
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3248,12 +3248,12 @@ TextMesh:
   m_GameObject: {fileID: 1320448304}
   m_Text: 2
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3341,12 +3341,12 @@ TextMesh:
   m_GameObject: {fileID: 1360891167}
   m_Text: 1
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3434,12 +3434,12 @@ TextMesh:
   m_GameObject: {fileID: 1427273179}
   m_Text: 2
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3527,12 +3527,12 @@ TextMesh:
   m_GameObject: {fileID: 1453433009}
   m_Text: 5
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3620,12 +3620,12 @@ TextMesh:
   m_GameObject: {fileID: 1453959199}
   m_Text: 6
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3713,12 +3713,12 @@ TextMesh:
   m_GameObject: {fileID: 1494190287}
   m_Text: 5
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3806,12 +3806,12 @@ TextMesh:
   m_GameObject: {fileID: 1545048715}
   m_Text: 3
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -3976,12 +3976,12 @@ TextMesh:
   m_GameObject: {fileID: 1603499124}
   m_Text: 2
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4102,12 +4102,12 @@ TextMesh:
   m_GameObject: {fileID: 1615004002}
   m_Text: 9
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4196,12 +4196,12 @@ TextMesh:
   m_GameObject: {fileID: 1645482296}
   m_Text: ':'
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4308,12 +4308,12 @@ TextMesh:
   m_GameObject: {fileID: 1660024914}
   m_Text: 5
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4401,12 +4401,12 @@ TextMesh:
   m_GameObject: {fileID: 1662578213}
   m_Text: 0
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4532,12 +4532,12 @@ TextMesh:
   m_GameObject: {fileID: 1669685738}
   m_Text: 2
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4625,12 +4625,12 @@ TextMesh:
   m_GameObject: {fileID: 1762211114}
   m_Text: 0
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4718,12 +4718,12 @@ TextMesh:
   m_GameObject: {fileID: 1795962277}
   m_Text: 2
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4811,12 +4811,12 @@ TextMesh:
   m_GameObject: {fileID: 1844183364}
   m_Text: 3
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -4944,12 +4944,12 @@ TextMesh:
   m_GameObject: {fileID: 2013314820}
   m_Text: 4
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -5037,12 +5037,12 @@ TextMesh:
   m_GameObject: {fileID: 2016825345}
   m_Text: 1
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -5130,12 +5130,12 @@ TextMesh:
   m_GameObject: {fileID: 2053222508}
   m_Text: 4
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -5223,12 +5223,12 @@ TextMesh:
   m_GameObject: {fileID: 2061831042}
   m_Text: 9
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -5316,12 +5316,12 @@ TextMesh:
   m_GameObject: {fileID: 2067931820}
   m_Text: 1
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -5464,12 +5464,12 @@ TextMesh:
   m_GameObject: {fileID: 2114388358}
   m_Text: 6
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
@@ -5557,12 +5557,12 @@ TextMesh:
   m_GameObject: {fileID: 2142651767}
   m_Text: 8
   m_OffsetZ: 0
-  m_CharacterSize: 0.012
+  m_CharacterSize: 0.06
   m_LineSpacing: 1
   m_Anchor: 4
   m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 500
+  m_FontSize: 100
   m_FontStyle: 0
   m_RichText: 1
   m_Font: {fileID: 12800000, guid: 0c28981f7e02ff94199a48c40ead32b5, type: 3}
