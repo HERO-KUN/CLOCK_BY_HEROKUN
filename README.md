@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HERO-KUN/CLOCK_BY_UNITY/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
 
-<img src="https://github.com/HERO-KUN/CLOCK_BY_UNITY/blob/master/Screenshots/decorated.png" width="100%" title="main screen with default preferences"/>
+<img src="https://github.com/HERO-KUN/CLOCK_BY_UNITY/blob/master/Screenshots/decorated.png" width="100%" title="main screen with decorated preferences"/>
 
 ##### Wallpaper Engine에 붙히는 배경화면용 시계 프로그램.
 ##### 시계, 배경, 배경의 밝기효과, 제목, 부제목이 전부입니다.
