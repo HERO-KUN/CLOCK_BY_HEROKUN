@@ -1,15 +1,15 @@
 # Clock by HEROKUN with Unity
 
-<img src="https://github.com/HERO-KUN/CLOCK_BY_UNITY/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
+<img src="https://github.com/HERO-KUN/CLOCK_BY_HEROKUN/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
 
-<img src="https://github.com/HERO-KUN/CLOCK_BY_UNITY/blob/master/Screenshots/decorated.png" width="100%" title="main screen with decorated preferences"/>
+<img src="https://github.com/HERO-KUN/CLOCK_BY_HEROKUN/blob/master/Screenshots/decorated.png" width="100%" title="main screen with decorated preferences"/>
 
 ##### Wallpaper Engine에 붙히는 배경화면용 시계 프로그램.
 ##### 시계, 배경, 배경의 밝기효과, 제목, 부제목이 전부입니다.
 ##### 시계와 배경을 제외한 요소들은 선택적요소이며 사용하지 않을 수 있습니다.
 
 
-### Preferences
+## Preferences
 
 ##### 해당 어플리케이션은 다음 4가지 설정 요소를 갖추고 있습니다.
 - 제목(title) : 화면 좌측의 두 줄 텍스트 중 윗줄의 텍스트를 정합니다.
@@ -32,3 +32,9 @@
 ##### * 밝은 배경이미지에 대해
 ##### 밝기 애니메이션을 위한 옵션이며, 정상적으로 설정시 배경 이미지 위에 밝은 배경 이미지가 페이드 인/아웃 효과를 통해 천천히 깜빡입니다.
 ##### 포토샵 등의 프로그램으로 명도 등의 조정을 주고 저장하여 설정했을 때 최적의 효과를 발휘합니다.
+
+## Downloads
+
+##### 해당 프로그램의 다운로드는 이쪽에서 가능합니다 :
+[Download : Google Drive](https://drive.google.com/open?id=1cHtKQff4e08xM5U4h6r9O2vMcSN9rihr, "download")
+
