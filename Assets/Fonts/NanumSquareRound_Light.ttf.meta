@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a75244e42464b9648ab4f3b6abedff81
+guid: f08ad9fe05f89d241ba23df56237684c
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: CookieRun
+  fontName: NanumSquareRound
   fontNames:
-  - CookieRun
+  - NanumSquareRound
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
