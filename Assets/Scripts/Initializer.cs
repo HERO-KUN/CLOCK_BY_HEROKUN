@@ -116,14 +116,14 @@ public class Initializer : MonoBehaviour
         for (int i = 0; i < length; i++) {
             if (updateFirstDigit || firstUpdate) {
                 digitObjects[0].transform.localPosition = new Vector3(digitObjects[0].transform.localPosition.x, Mathf.Lerp(previousDigitData[digitType][0], firstDigitData, movementCurve.Evaluate(i/(float)length)), 0);
-                digitObjects[0].transform.GetChild(firstDigitData).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, i / (float)length * (firstDigitData == 0 ? 0.5f : 0.8f));
-                digitObjects[0].transform.GetChild(previousDigitData[digitType][0]).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, (previousDigitData[digitType][0] == 0 ? 0.5f : 0.8f) - i / (float)length * (previousDigitData[digitType][0] == 0 ? 0.25f : 0.55f));
+                digitObjects[0].transform.GetChild(firstDigitData).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, 0.25f + Math.Min(i * 1.5f, length) / length * (firstDigitData == 0 ? 0.25f : 0.55f));
+                digitObjects[0].transform.GetChild(previousDigitData[digitType][0]).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, (previousDigitData[digitType][0] == 0 ? 0.5f : 0.8f) - Math.Min(i * 1.5f, length) / length * (previousDigitData[digitType][0] == 0 ? 0.25f : 0.55f));
             }
 
             if (updateSecondDigit || firstUpdate) {
                 digitObjects[1].transform.localPosition = new Vector3(digitObjects[1].transform.localPosition.x, Mathf.Lerp(previousDigitData[digitType][1], secondDigitData, movementCurve.Evaluate(i / (float)length)), 0);
-                digitObjects[1].transform.GetChild(secondDigitData).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, 0.25f + i / (float)length * 0.55f);
-                digitObjects[1].transform.GetChild(previousDigitData[digitType][1]).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, 0.8f - (i / (float)length * 0.55f));
+                digitObjects[1].transform.GetChild(secondDigitData).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, 0.25f + Math.Min(i * 1.5f, length) / length * 0.55f);
+                digitObjects[1].transform.GetChild(previousDigitData[digitType][1]).GetComponent<TextMesh>().color = new Color(1f, 1f, 1f, 0.8f - (Math.Min(i * 1.5f, length) / length * 0.55f));
             }
 
             yield return new WaitForEndOfFrame();
@@ -142,28 +142,40 @@ public class Initializer : MonoBehaviour
             for (int i = 0; i < digitListHours[0].transform.childCount; i++) {
                 if (i != firstDigitData)
                     digitListHours[0].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.25f);
+                else
+                    digitListHours[0].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, firstDigitData == 0 ? 0.5f : 0.8f);
             }
             for (int i = 0; i < digitListHours[1].transform.childCount; i++) {
                 if (i != secondDigitData)
                     digitListHours[1].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.25f);
+                else
+                    digitListHours[1].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.8f);
             }
         } else if (digitType == 1) {
             for (int i = 0; i < digitListMinutes[0].transform.childCount; i++) {
                 if (i != firstDigitData)
                     digitListMinutes[0].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.25f);
+                else
+                    digitListMinutes[0].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, firstDigitData == 0 ? 0.5f : 0.8f);
             }
             for (int i = 0; i < digitListMinutes[1].transform.childCount; i++) {
                 if (i != secondDigitData)
                     digitListMinutes[1].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.25f);
+                else
+                    digitListMinutes[1].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.8f);
             }
         } else {
             for (int i = 0; i < digitListSeconds[0].transform.childCount; i++) {
                 if (i != firstDigitData)
                     digitListSeconds[0].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.25f);
+                else
+                    digitListSeconds[0].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, firstDigitData == 0 ? 0.5f : 0.8f);
             }
             for (int i = 0; i < digitListSeconds[1].transform.childCount; i++) {
                 if (i != secondDigitData)
                     digitListSeconds[1].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.25f);
+                else
+                    digitListSeconds[1].transform.GetChild(i).GetComponent<TextMesh>().color = new Color(1, 1, 1, 0.8f);
             }
         }
 
