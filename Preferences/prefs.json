@@ -2,5 +2,11 @@
 	"title":"public class HeroKun extends Person { ... }",
 	"subtitle":"마음만은 언제까지나 멍멍이 소년",
 	"background":"background.png",
-	"background_bright":"background_bright.png"
+	"background_bright":"background_bright.png",
+	"clock_x":"4.5",
+	"clock_y":"-0.05",
+	"text_x":"-4.5",
+	"text_y":"0",
+	"title_offset":"0.15",
+	"subtitle_offset":"-0.15"
 }
