@@ -13,15 +13,16 @@ public class Initializer : MonoBehaviour
     public sbyte direction;
 
     public GameObject digitArea;
+    public GameObject titleArea;
 
     public Image background;
     public Image backgroundBright;
-    public Text title;
-    public Text subtitle;
+    public TextMesh title;
+    public TextMesh subtitle;
 
-    GameObject[] digitListHours;
-    GameObject[] digitListMinutes;
-    GameObject[] digitListSeconds;
+    private GameObject[] digitListHours;
+    private GameObject[] digitListMinutes;
+    private GameObject[] digitListSeconds;
 
     private int update = 0;
     private bool firstUpdate = true;
@@ -61,6 +62,11 @@ public class Initializer : MonoBehaviour
             Preferences prefs = JsonUtility.FromJson<Preferences>(File.ReadAllText(PREF_PATH));
             title.text = prefs.title;
             subtitle.text = prefs.subtitle;
+            digitArea.transform.position = new Vector3(prefs.clock_x, prefs.clock_y, 0);
+            titleArea.transform.position = new Vector3(prefs.text_x, prefs.text_y, 0);
+            title.gameObject.transform.localPosition = new Vector3(0, prefs.title_offset, 0);
+            subtitle.gameObject.transform.localPosition = new Vector3(0, prefs.subtitle_offset, 0);
+
             if (File.Exists(string.Join("/", PREF_ROOT, prefs.background))) {
                 Texture2D backgroundTexture = new Texture2D(1, 1);
                 backgroundTexture.LoadImage(File.ReadAllBytes(string.Join("/", PREF_ROOT, prefs.background)));
@@ -78,6 +84,7 @@ public class Initializer : MonoBehaviour
             } else {
                 backgroundBright.enabled = false;
             }
+
         } else {
             title.text = "preference file not found.";
             subtitle.text = "";
