@@ -24,7 +24,7 @@ public class Initializer : MonoBehaviour
     private GameObject[] digitListMinutes;
     private GameObject[] digitListSeconds;
 
-    private int update = 0;
+    private int update = -1;
     private bool firstUpdate = true;
 
     private const int movementDuration = 65;
@@ -67,20 +67,24 @@ public class Initializer : MonoBehaviour
             title.gameObject.transform.localPosition = new Vector3(0, prefs.title_offset, 0);
             subtitle.gameObject.transform.localPosition = new Vector3(0, prefs.subtitle_offset, 0);
 
-            if (File.Exists(string.Join("/", PREF_ROOT, prefs.background))) {
+            int backgroundFile = (new System.Random()).Next(0, prefs.background.Length);
+
+            if (File.Exists(string.Join("/", PREF_ROOT, prefs.background[backgroundFile]))) {
                 Texture2D backgroundTexture = new Texture2D(1, 1);
-                backgroundTexture.LoadImage(File.ReadAllBytes(string.Join("/", PREF_ROOT, prefs.background)));
+                backgroundTexture.LoadImage(File.ReadAllBytes(string.Join("/", PREF_ROOT, prefs.background[backgroundFile])));
                 background.sprite = Sprite.Create(backgroundTexture, new Rect(0, 0, backgroundTexture.width, backgroundTexture.height), new Vector2(0.5f, 0.5f));
+                background.rectTransform.sizeDelta = new Vector2(background.sprite.texture.width, background.sprite.texture.height);
             } else {
                 title.text = "cannot find background file.";
                 subtitle.text = "";
                 background.color = new Color(0, 0, 0);
                 backgroundBright.color = new Color(0, 0, 0);
             }
-            if (File.Exists(string.Join("/", PREF_ROOT, prefs.background_bright))) {
+            if (File.Exists(string.Join("/", PREF_ROOT, prefs.background_bright[backgroundFile]))) {
                 Texture2D backgroundTexture = new Texture2D(1, 1);
-                backgroundTexture.LoadImage(File.ReadAllBytes(string.Join("/", PREF_ROOT, prefs.background_bright)));
+                backgroundTexture.LoadImage(File.ReadAllBytes(string.Join("/", PREF_ROOT, prefs.background_bright[backgroundFile])));
                 backgroundBright.sprite = Sprite.Create(backgroundTexture, new Rect(0, 0, backgroundTexture.width, backgroundTexture.height), new Vector2(0.5f, 0.5f));
+                backgroundBright.rectTransform.sizeDelta = new Vector2(backgroundBright.sprite.texture.width, backgroundBright.sprite.texture.height);
             } else {
                 backgroundBright.enabled = false;
             }

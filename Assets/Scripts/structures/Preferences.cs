@@ -5,9 +5,9 @@
 
     public string subtitle;
 
-    public string background;
+    public string[] background;
 
-    public string background_bright;
+    public string[] background_bright;
 
     public float clock_x;
 
