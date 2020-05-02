@@ -1,8 +1,8 @@
-# Clock by HEROKUN with Unity
+# Time Ame Unity
 
-<img src="https://github.com/HERO-KUN/CLOCK_BY_HEROKUN/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
+<img src="https://github.com/HERO-KUN/time-ame-unity/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
 
-<img src="https://github.com/HERO-KUN/CLOCK_BY_HEROKUN/blob/master/Screenshots/decorated.png" width="100%" title="main screen with decorated preferences"/>
+<img src="https://github.com/HERO-KUN/time-ame-unity/blob/master/Screenshots/decorated.png" width="100%" title="main screen with decorated preferences"/>
    
 Wallpaper Engine에 붙히는 배경화면용 시계 프로그램.   
 시계, 배경, 배경의 밝기효과, 제목, 부제목이 전부입니다.   
@@ -43,10 +43,10 @@ Wallpaper Engine에 붙히는 배경화면용 시계 프로그램.
 ## Downloads
    
 해당 프로그램의 다운로드는 이쪽에서 가능합니다 :   
-[Download : Google Drive](https://drive.google.com/open?id=1tVwQunzT605tX6bbrZ8yVPYmzbeu39T5)   
+[Download : Google Drive](https://drive.google.com/open?id=1SUuYrNBGbNENJS09ASBcAsWmnmiM9ZC3)   
 
 ### 패치노트
-2020-05-02, 15:06 : 배경 이미지를 랜덤 선택하는 기능이 추가되었고, 배경 이미지 출력 크기가 고정되어 이미지의 크기와 다르게 설정되면 이미지가 눌리던 현상이 수정되었습니다.
+2020-05-02, 15:06 : 배경 이미지를 랜덤 선택하는 기능이 추가되었고, 배경 이미지 출력 크기가 고정되어 이미지의 크기와 다르게 설정되면 이미지가 눌리던 현상이 수정되었습니다.   
 2020-02-09, 18:50 : 어플리케이션이 일시 중지되었다가 다시 실행되면서 시간이 변경될 때 이전 시간에 표시되었던 숫자의 알파값이 정상적으로 내려가지 않던 문제 수정.   
 2020-02-10, 18:15 : 요소들의 위치에 대한 설정이 추가되었습니다.
 
