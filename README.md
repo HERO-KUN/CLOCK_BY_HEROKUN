@@ -1,6 +1,6 @@
 # Time Ame Unity
 
-<img src="https://github.com/kerokun-kou/time-ame-unity/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
+<img src="https://github.com/herokun-kou/time-ame-unity/blob/master/Screenshots/default_preferences.png" width="100%" title="main screen with default preferences"/>
 
 <img src="https://github.com/herokun-kou/time-ame-unity/blob/master/Screenshots/decorated.png" width="100%" title="main screen with decorated preferences"/>
    
